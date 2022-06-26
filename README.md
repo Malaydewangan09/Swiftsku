@@ -5,5 +5,5 @@
  Steps to run
 
  clone the repository 
- cd to the Directory
- run python manage.py runserver 
+  <br />cd to the Directory
+  <br />run python manage.py runserver 
